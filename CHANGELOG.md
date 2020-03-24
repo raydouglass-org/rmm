@@ -7,7 +7,8 @@
 ## Bug Fixes
 
 # RMM 0.12.0 (Date TBD)
-
+Test1
+Test2
 ## New Features
 
 ## Improvements
